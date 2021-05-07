@@ -18,6 +18,9 @@
 - Milestones
 
 ## Branches
+
+You can think of a Git branch as a copy of the project at a specific point in time that can be changed independently of other branches.[^1]
+
 - main/master
 - production
 - dev
@@ -34,7 +37,7 @@
 
 ## References
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-- [How to Use Git and Git Workflows – a Practical Guide](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)
+- [How to Use Git and Git Workflows – a Practical Guide](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)[^1]
 - [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Git workflow Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Git Branching - Branching Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)

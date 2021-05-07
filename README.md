@@ -19,7 +19,7 @@
 
 ## Branches
 
-You can think of a Git branch as a copy of the project at a specific point in time that can be changed independently of other branches. [^1]
+You can think of a Git branch as a copy of the project at a specific point in time that can be changed independently of other branches ([source](https://www.freecodecamp.org/news/practical-git-and-git-workflows/#git-branches)).
 
 - main/master
 - production
@@ -42,4 +42,3 @@ You can think of a Git branch as a copy of the project at a specific point in ti
 - [Git workflow Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Git Branching - Branching Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
 
-[^1]: [How to Use Git and Git Workflows – a Practical Guide](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)

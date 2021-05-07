@@ -27,7 +27,7 @@
 - `git status .`
 - `git add .`
 - `git checkout -b branch`
-- `git checkount branch`
+- `git checkout branch`
 - `git push`
 - `git push --set-upstream origin branch
 

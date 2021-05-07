@@ -36,6 +36,3 @@
 - [How to Use Git and Git Workflows – a Practical Guide](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)
 - [Git workflow Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Git Branching - Branching Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
-- 
-- 
-  

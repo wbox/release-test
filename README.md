@@ -1,6 +1,6 @@
 # How I use github to manage my projects
 
-- [ ] Project
+- [] Project
   - [ ] Resources
   - [ ] Queue of activities/tasks (TODO, In progress, Done)
   - [ ] Activities/Tasks (issues)

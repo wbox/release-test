@@ -9,6 +9,7 @@
 - [ ] Milestones (group of activities/tasks must be completed at certain time/date)
 
 ## Github Resources
+- Repository
 - Project
 - Queue of Activities
 - Resources

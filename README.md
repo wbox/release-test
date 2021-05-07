@@ -32,6 +32,7 @@ You can think of a Git branch as a copy of the project at a specific point in ti
 - `git remote -v`
 - `git add .`
 - `git commit -m comments`
+- `git log`
 - `git checkout -b branch`
 - `git checkout branch`
 - `git push`

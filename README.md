@@ -29,11 +29,12 @@ You can think of a Git branch as a copy of the project at a specific point in ti
 ## git commands
 - `git clone`
 - `git status .`
+- `git remote -v`
 - `git add .`
 - `git checkout -b branch`
 - `git checkout branch`
 - `git push`
-- `git push --set-upstream origin branch
+- `git push --set-upstream origin branch`
 
 ## References
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)

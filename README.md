@@ -33,10 +33,11 @@ You can think of a Git branch as a copy of the project at a specific point in ti
 - `git add .`
 - `git commit -m comments`
 - `git log`
-- `git checkout -b branch`
-- `git checkout branch`
 - `git push`
 - `git push --set-upstream origin branch`
+- `git checkout -b branch`
+- `git checkout branch`
+
 
 ## References
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)

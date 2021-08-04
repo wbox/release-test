@@ -37,6 +37,7 @@ You can think of a Git branch as a copy of the project at a specific point in ti
 - `git push --set-upstream origin branch`
 - `git checkout -b branch`
 - `git checkout branch`
+- `git pull`
 
 
 ## References

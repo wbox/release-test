@@ -1,5 +1,7 @@
 # How I use github to manage my projects
 
+![Itsfine](./pictures/itsfine.png)
+
 ## Project Items
 - [ ] Project
 - [ ] Queue of activities/tasks (TODO, In progress, Done)
